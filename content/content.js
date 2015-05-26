@@ -1,4 +1,4 @@
-// Write your code
-// Access scope via $scope
+$scope.choices = $scope.settings.choices.split("\n");
 
-// KISS
+console.log($scope.choices);
+console.log($scope.settings.choices);

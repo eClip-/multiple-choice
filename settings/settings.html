@@ -1,10 +1,10 @@
 <div class="form-group">
-    <label class="col-sm-3 control-label" for="user">{{__('user')}}</label>
+    <label class="col-sm-3 control-label" for="choices">{{__('choices')}}</label>
 
     <div class="col-sm-9">
-        <input id="user" class="form-control"
-               ng-model="settings.user"
-               placeholder="{{__('user')}}">
-        <span class="help-block m-b-none" ng-bind-html="__('user_info')"></span>
+        <textarea id="choices" class="form-control"
+               ng-model="settings.choices"
+               placeholder="{{__('choices')}}"></textarea>
+        <span class="help-block m-b-none" ng-bind-html="__('choices_info')"></span>
     </div>
 </div>

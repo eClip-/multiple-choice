@@ -1,5 +1,4 @@
 {
-  "key": "Schlüssel",
-  "value": "Wert",
-  "translation": "Übersetzung"
+  "choices": "Auswahlmöglichkeiten",
+  "choices_info": "Bitte nenne hier alle Auswahlmöglichkeiten (getrennt via Zeilenumbruch)."
 }

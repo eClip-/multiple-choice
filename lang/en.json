@@ -1,5 +1,4 @@
 {
-  "key": "Key",
-  "value": "Value",
-  "translation": "Translation"
+  "choices": "Choices",
+  "choices_info": "Please fill in all possible choices separated by linebreaks."
 }
