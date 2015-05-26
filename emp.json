@@ -1,13 +1,13 @@
 {
   "name": {
-    "de": "Modulname",
-    "en": "modulename"
+    "de": "Multiple Choice",
+    "en": "Multiple Choice"
   },
-  "slug": "your-slug",
-  "version": "x.y.z",
+  "slug": "multiple-choice",
+  "version": "0.0.1",
   "description": {
-    "de": "Kurze Beschreibung",
-    "en": "Short description"
+    "de": "Einfaches Multiple Choice",
+    "en": "Plain old multiple choice"
   },
   "contributors": [
     {
@@ -25,12 +25,12 @@
   },
   "keywords": {
     "de": [
-      "schlagwort1",
-      "schlagwort2"
+      "mehrfach",
+      "auswahl"
     ],
     "en": [
-      "keyword1",
-      "keyword2"
+      "multiple",
+      "choice"
     ]
   },
   "author": "Maik Hummel <maik@eclip.io>"
